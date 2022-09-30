@@ -1,4 +1,6 @@
-# Project Lyrics
+# Project Bluetify
+
+live site link - https://bluetify.netlify.app
 
 Develop an elegant React.js Music Application. 
 
